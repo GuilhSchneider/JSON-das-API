@@ -1,0 +1,117 @@
+[
+    {
+        "cpf": "98765432100",
+        "nomeCompleto": "Lucas Santos",
+        "pais": "Brasil",
+        "cidade": "Rio de Janeiro",
+        "imagem": "<img src='https://cdn-icons-png.freepik.com/512/5231/5231020.png' width ='120px' height = '130px'>",
+        "profissao": "Médico"
+    },
+    {
+        "cpf": "12345678900",
+        "nomeCompleto": "Ana Silva",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "imagem": "<img src='https://cdn-icons-png.flaticon.com/256/5231/5231019.png' width ='120px' height = '130px'>",
+        "profissao": "Engenheira"
+    },
+    {
+        "cpf": "45678912300",
+        "nomeCompleto": "Mariana Costa",
+        "pais": "Brasil",
+        "cidade": "Belo Horizonte",
+        "imagem": "<img src='https://cdn-icons-png.flaticon.com/512/2810/2810652.png' width ='120px' height = '130px'>",
+        "profissao": "Professora"
+    },
+    {
+        "cpf": "95175368400",
+        "nomeCompleto": "Matheus Souza",
+        "pais": "Brasil",
+        "cidade": "Goiânia",
+        "imagem": "<img src='https://cdn-icons-png.flaticon.com/512/4129/4129800.png' width ='120px' height = '130px'>",
+        "profissao": "Fisioterapeuta"
+    },
+    {
+        "cpf": "15975348600",
+        "nomeCompleto": "Camila Alves",
+        "pais": "Brasil",
+        "cidade": "Natal",
+        "imagem": "<img src='https://cdn-icons-png.flaticon.com/512/2118/2118592.png' width ='120px' height = '130px'>",
+        "profissao": "Psicóloga"
+    },
+    {
+        "cpf": "95125814700",
+        "nomeCompleto": "Bianca Oliveira",
+        "pais": "Brasil",
+        "cidade": "Belém",
+        "imagem": "<img src='https://cdn-icons-png.flaticon.com/512/4395/4395584.png' width ='120px' height = '130px'>",
+        "profissao": "Farmacêutica"
+    },
+    {
+        "cpf": "32198765400",
+        "nomeCompleto": "Leandro Rocha",
+        "pais": "Brasil",
+        "cidade": "Campinas",
+        "imagem": "<img src='https://cdn-icons-png.flaticon.com/512/436/436299.png' width ='120px' height = '130px'>",
+        "profissao": "Técnico de TI"
+    },
+    {
+        "cpf": "54389432638",
+        "nomeCompleto": "Ricardo Alves",
+        "pais": "Brasil",
+        "cidade": "Florianópolis",
+        "imagem": "<img src='https://cdn-icons-png.flaticon.com/128/6813/6813541.png' width ='120px' height = '130px'>",
+        "profissao": "Piloto"
+    },
+    {
+        "cpf": "98543723450",
+        "nomeCompleto": "Lucas Alves",
+        "pais": "Brasil",
+        "cidade": "Cuiabá",
+        "imagem": "<img src='https://cdn-icons-png.flaticon.com/512/1754/1754730.png' width ='120px' height = '130px'>",
+        "profissao": "Engenheiro Eletrônico"
+    },
+    {
+        "cpf": "85938594200",
+        "nomeCompleto": "Wagner Santos",
+        "pais": "Brasil",
+        "cidade": "Salvador",
+        "imagem": "<img src='https://cdn-icons-png.flaticon.com/512/5897/5897451.png' width ='120px' height = '130px'>",
+        "profissao": "Chef de Cozinha"
+    },
+    {
+        "cpf": "96834064932",
+        "nomeCompleto": "Bruno Lima",
+        "pais": "Brasil",
+        "cidade": "Goiânia",
+        "imagem": "<img src='https://cdn-icons-png.flaticon.com/256/1754/1754626.png' width ='120px' height = '130px'>",
+        "profissao": "Corretor de Imóveis"
+    },
+    {
+        "cpf": "78435634609",
+        "nomeCompleto": "Fernando Lima",
+        "pais": "Brasil",
+        "cidade": "Rio Branco",
+        "imagem": "<img src='https://cdn-icons-png.flaticon.com/512/1754/1754313.png' width ='120px' height = '130px'>",
+        "profissao": "Enfermeiro"
+    },
+
+
+    {
+        "cpf": "965655144",
+        "nomeCompleto": "Bruno Messias Aguiar",
+        "pais": "Brasil",
+        "cidade": "São Paulo",
+        "imagem": "<img src='https://lh3.googleusercontent.com/a-/ALV-UjVWuCov1CufXUIayOMwLrCPoSIfKufvRVHWA_tq3Tp3Cgchna0=s75-c' width ='120px' height = '130px'>",
+        "profissao": "Professor"
+    },
+    {
+        "cpf": "40028922",
+        "nomeCompleto": "Yudi",
+        "pais": "Bom Dia",
+        "cidade": "& Cia",
+        "imagem": "<img src='https://npr.brightspotcdn.com/dims4/default/6939a49/2147483647/strip/true/crop/708x464+0+0/resize/1760x1154!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkmuw%2Ffiles%2F202003%2Fps2.png' width ='120px' height = '130px'>",
+        "profissao": "Apresentador"
+    }
+
+]

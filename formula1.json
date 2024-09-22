@@ -1,0 +1,44 @@
+[
+    {
+        "imagem": "<img src='https://s2-cbn.glbimg.com/QT34ZHqlh86Shi2XGCB1UhovTvU=/0x0:625x570/888x0/smart/filters:strip_icc()/estaticos.globoradio.globo.com/fotos/2024/04/4b52005f-84fc-44a0-97a5-d123306398c3.jpg' width ='300px' height = '300px'>",
+        "nome": "Ayrton Senna",
+        "idade": "34",
+        "nacionalidade": "Brasileiro",
+        "historia": "Senna foi um dos pilotos mais talentosos e icônicos, conhecido por suas incríveis performances em condições de chuva e suas habilidades em voltas de classificação. Sua rivalidade com Alain Prost é uma das mais intensas da história. Sua trágica morte no GP de San Marino, em 1994, marcou profundamente o esporte."
+    },
+    {
+        "imagem": "<img src='https://cdn.24.co.za/files/Cms/General/d/8150/fdb88201b98c48beafedb1d08462ad44.jpg' width ='300px' height = '300px'>",
+        "nome": "Lewis Hamilton",
+        "idade": "39",
+        "nacionalidade": "Britânico",
+        "historia": "Hamilton estreou em 2007 e venceu seu primeiro título em 2008, tornando-se o mais jovem campeão até então. Desde 2014, ele dominou a era dos motores híbridos com a Mercedes, quebrando vários recordes, incluindo o de mais vitórias na história (103). Fora das pistas, é um ativista social, destacando-se pela luta pela igualdade e diversidade."
+    },
+    {
+        "imagem": "<img src='https://64.media.tumblr.com/fd798d132c4ef55f465fa43859611120/fb4a4e0b31b2919f-c2/s400x600/b6084193dc84a2538aba9714680ae2ce4f7fc865.png' width ='300px' height = '300px'>",
+        "nome": "Sebastian Vettel",
+        "idade": "37",
+        "nacionalidade": "Alemão",
+        "historia": "Vettel tornou-se o mais jovem campeão de F1 e venceu quatro títulos consecutivos com a Red Bull. Embora tenha se juntado à Ferrari em 2015, ele não conseguiu replicar o sucesso da Red Bull. Ele é conhecido por seu talento e espírito esportivo, aposentando-se da F1 em 2022."
+    },
+    {
+        "imagem": "<img src='https://f1templo.com/wp-content/uploads/2018/10/Michael-Schumacher.jpg' width ='300px' height = '300px'>",
+        "nome": "Michael Schumacher",
+        "idade": "55",
+        "nacionalidade": "Alemão",
+        "historia": "Schumacher dominou a F1, especialmente com a Ferrari, conquistando cinco títulos consecutivos. Ele redefiniu a excelência na F1 com 91 vitórias, sendo reverenciado por sua determinação e trabalho em equipe. Após se aposentar em 2006, retornou com a Mercedes em 2010, mas sem repetir o sucesso. Um acidente de esqui em 2013 deixou-o gravemente ferido, permanecendo fora do olhar público desde então."
+    },
+    {
+        "imagem": "<img src='https://f1templo.com/wp-content/uploads/2018/10/Alain-Prost.jpg' width ='300px' height = '300px'>",
+        "nome": "Alain Prost",
+        "idade": "69",
+        "nacionalidade": "Francês",
+        "historia": "Apelidado de 'O Professor' por seu estilo calculado e estratégico, Prost foi um dos pilotos mais consistentes da F1. Sua rivalidade com Ayrton Senna na McLaren marcou uma era do esporte. Ele encerrou sua carreira com quatro títulos e 51 vitórias."
+    },
+    {
+        "imagem": "<img src='https://motorsportmagazine.b-cdn.net/database/wp-content/uploads/sites/2/2020/12/Max-Verstappen-2022-Red-Bull-headshot.jpg' width ='300px' height = '300px'>",
+        "nome": "Max Verstappen",
+        "idade": "26",
+        "nacionalidade": "Holandês",
+        "historia": "Max Verstappen é um piloto holandês de Fórmula 1 que se tornou um dos maiores talentos da categoria. Ele estreou na F1 em 2015 com apenas 17 anos, tornando-se o piloto mais jovem da história a competir na categoria. Em 2016, Verstappen fez história ao vencer o Grande Prêmio da Espanha com a Red Bull, sendo o mais jovem a vencer uma corrida de F1, com 18 anos."
+    }
+]
